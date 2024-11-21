@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @kacey-vdw
+- 👀 I’m interested in software development and archery
+- 🌱 I’m currently learning C and C++
+- 📫 How to reach me: kacey.vdwalt@gmail.com
+- 😄 Pronouns: they/them
+- ⚡ Fun fact: I am South African
